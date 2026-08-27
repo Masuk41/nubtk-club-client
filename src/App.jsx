@@ -21,6 +21,8 @@ import { LeaderboardPage } from "@/pages/LeaderboardPage";
 import { AdminPage } from "@/pages/AdminPage";
 
 export function App() {
+
+  
   return (
     <BrowserRouter>
       <AuthProvider>
